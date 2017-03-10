@@ -1,6 +1,8 @@
 # page_arrows
 A Jquery.Datatables pagination plugin
 
+![screenshot](https://github.com/garyee/page_arrow/blob/master/screenshot.png)
+
 Use by:
 ```html
 <script type="text/javascript" src="jquery.dataTables.js"></script>
